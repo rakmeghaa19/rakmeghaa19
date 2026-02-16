@@ -44,5 +44,5 @@ Spring Boot + MySQL + REST APIs
 
 ## 📫 Connect With Me
 
-LinkedIn: [Your LinkedIn Link]  
+LinkedIn: www.linkedin.com/in/meghaa19  
 Email: rakmegha45@gmail.com  
